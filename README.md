@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm htayshmpoelor181
 
-<!--
-**htayshmpoelor181/htayshmpoelor181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 🎱 🥊 🎷 Interested in game development 🌍 🎱 🥊 🎷
 
-Here are some ideas to get you started:
+## About Me
+🎺 🎹 A programmer in databases 🎺 🎹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🌈 🎤 🌟 🏊 Improving my skills in front-end development 🌈 🎤 🌟 🏊
+
+### Fun Facts
+🛶 🎤 🏊 A nerd in tech reviews 🛶 🎤 🏊
+
+---
+🛶 🛼 ✨ 🎮 🏓 Thanks for visiting my profile! 🎳 🏒 🛼 🌺 🏹
